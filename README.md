@@ -12,7 +12,6 @@
 <i class="fab fa-whatsapp-square" style="color: rgb(62, 220, 129); font-size: 20px; --darkreader-inline-color: #4ddf8b;" data-darkreader-inline-color=""></i> <b><span id="W_whatsapp"><a href="tel:1234567890">1234567890</a></span></b><br></p>    
 
 <h3 style="color: rgb(62, 0, 93); --darkreader-inline-color: #cbc6bf;" data-darkreader-inline-color="">We will revert you as soon as possible...!</h3>
-<p style="color: rgb(62, 0, 93); text-align: center; --darkreader-inline-color: #cbc6bf;" data-darkreader-inline-color="">Thank you for contacting us! <br><b>Have a great day</b></p>
-<span style="font-size: 1px; opacity: 0;">This page is generated with the help of <a href="https://www.blogearns.com/2021/06/free-contact-us-page-generator.html" style="color: inherit; --darkreader-inline-color: inherit;" data-darkreader-inline-color="">Contact Us Page Generator</a></span>
+
 </div>
   
